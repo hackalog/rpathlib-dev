@@ -15,18 +15,19 @@ Quick Start
 >>> make update_environment
 ```
 
-Source code is in `src/`. Notebooks are in `notebooks/`. See [Projet Organization](reference/easydata/file-reference.md) for more standard file locations.
+Source code is in `src/`. Notebooks are in `notebooks/`. See [Projcet Organization](reference/easydata/file-reference.md) for more standard file locations.
 
 For vastly more detailed "Getting Started" instructions, See the [Easydata Framework Getting Started Guide](reference/easydata/easydata.md).
 
 rpathlib Spec and Strawman
 ----------
 
-See [notebooks/00-strawman.ipynb]
-
 The original spec was this:
 
 ![](reference/images/want-remote-pathlib.jpg)
+
+See sample implementation ideas starting at [00-strawman.ipynb](notebooks/00-strawman.ipynb)
+
 
 
 --------
