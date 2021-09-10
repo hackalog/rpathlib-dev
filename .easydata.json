@@ -1,0 +1,13 @@
+{
+    "_template": "easydata",
+    "author_name": "Kjell Wooding",
+    "conda_path": "~/miniconda3/bin/conda",
+    "default_branch": "main",
+    "description": "Strawman for an 'rpathlib' implementation",
+    "module_name": "src",
+    "open_source_license": "MIT",
+    "project_name": "rpathlib-dev",
+    "python_version": "latest",
+    "repo_name": "rpathlib-dev",
+    "upstream_location": "github.com"
+}
